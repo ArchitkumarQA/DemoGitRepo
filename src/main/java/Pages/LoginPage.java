@@ -13,6 +13,7 @@ public void loginpage1() {
 
 public void loginpage2() {
 	System.out.println("loginpage1");
+	System.out.println("updated code");
 }
 	
 
