@@ -20,6 +20,14 @@ public void loginpage3() {
 	System.out.println("loginpage1");
 	System.out.println("updated code");
 }
-	
+public void loginpage4() {
+	System.out.println("loginpage1");
+	System.out.println("updated code");
+}
+public void loginpage5() {
+	System.out.println("loginpage1");
+	System.out.println("updated code");
+	System.out.println("done by branch" );
+}
 
 }
