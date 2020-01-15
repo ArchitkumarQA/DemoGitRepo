@@ -31,5 +31,12 @@ public void loginpage5() {
 	System.out.println("done by branch" );
 }
 
+public void loginpage6() {
+	System.out.println("loginpage1");
+	System.out.println("updated code");
+	System.out.println("done by branch" );
+}
+
+
 
 }
