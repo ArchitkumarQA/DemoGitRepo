@@ -5,9 +5,7 @@ import org.testng.annotations.Test;
 public class Testpage {
 	@Test
 	public void test1()
-
-	{System.out.println("test1234657");
-
+	{System.out.println("test123");
 	}
 
 }
